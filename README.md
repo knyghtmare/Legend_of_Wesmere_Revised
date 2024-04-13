@@ -13,12 +13,12 @@ _The tale of Kalenz, the High Lord who rallied his people after the second orcis
 
 ### Team
 
-- TJ Khalid (lead)
-- Anekron
-- Mirion147
+- [TJ Khalid](https://github.com/knyghtmare)
+- [Anekron](https://github.com/AnekronCZ)
+- [Mirion147](https://github.com/Mirion147)
 - 
 
-### Stakeholders
+### Key Stakeholders
 
 - Yumi/Nemaara
 - Dalas
