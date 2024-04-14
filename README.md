@@ -9,6 +9,7 @@ A rework of the Battle for Wesnoth's Legend of Wesmere campaign.
 _The tale of Kalenz, the High Lord who rallied his people after the second orcish invasion of the Great Continent and became the most renowned hero in the recorded history of the elves._
 
 - **Scenario Count:** 14
+- **Current Scenario Count: 3**
 - **Difficulty Level:** Intermediate
 
 ### Team
@@ -27,4 +28,4 @@ _The tale of Kalenz, the High Lord who rallied his people after the second orcis
 
 `Note: this is the target that has to be met for a release on the add-on server.`
 
-6 scenarios. Fully Playable and with Content.
+5 scenarios. Fully Playable and with Content.
