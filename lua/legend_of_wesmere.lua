@@ -18,3 +18,12 @@ function wesnoth.wml_actions.recall_gold_cost(cfg)
         unit.recall_cost = math.floor(unit.cost * (percentage/100))
     end
 end
+
+function wesnoth.effects.gender(unit, cfg)
+    -- we extend unit effects to gender swapping
+	if cfg.set then
+		unit.gender = cfg.set
+	else
+		wml.error("Invalid or Missing key in [effect] apply_to=gender")
+	end
+end
