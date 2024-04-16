@@ -75,7 +75,7 @@ After a few weeks of patrol, Landar and Kalenz are meant to return to the Ka'lia
 
 ### S3 - Witchmire
 
-Landar and Kalenz pursue the Blackcrest clan to a nearby location outside of Wesmere, where they find the elven hostages. They are surprised to find a swamp and after some spying, discover that the Blackcrest clan is allied with saurians (Clan Earth-becomes-clay). They discover that the shamans have made some blood sacrifices from the elves as well to boost their magical powers. Landar and Kalenz free the hostages and either wipe out the orcs or simply retreat. Either way, more orcs arrive at the end of the scenario, prompting them to return to Wesmere and go back to the Ka'lian. 
+Landar and Kalenz pursue the Blackcrest clan to a nearby location outside of Wesmere, where they find the elven hostages. They are surprised to find a swamp and after some spying, discover that the Blackcrest clan is allied with saurians (Clan Earth-becomes-clay). They discover that the shamans have made some blood sacrifices from the elves as well to boost their magical powers. Landar and Kalenz free the hostages and either wipe out the orcs or simply retreat. Either way, more orcs arrive at the end of the scenario, prompting them to return to Wesmere and go back to the Ka'lian.
 
 - Recruits: Archer, Fighter, Scout, Civilian
 
@@ -107,9 +107,13 @@ After defending the village, Landar and Kalenz agree that the Ka'lian is probabl
 
 Cleodil leads Kalenz and Landar directly across the Great River to the Grey Woods. They find a band of mixed Wesnothian troops led by Lyrlei, technically a Wesnothian Princess by heritage though she's very humble and tends not to use the term. Cleodil explains that Lyrlei's troops were sent to spy on Wesmere and she checks in with them periodically to deliver the information to Weldyn. When Lyrlei asks how Cleodil knows this, Cleodil reveals that elves have mastery over nature and even the trees themselves may be their eyes and ears. Lyrlei asks if the Ka'lian knows about this and Cleodil assures her that they don't. Cleo is a smart gal. (Can we get some forest spirits in here as well? Enable recruiting forest spirits, Woses are not recruitable but you get some loyal ones)
 
-To the point, Landar makes the case for them joining forces and fighting the orcs and saurians. Lyrlei is like her mother, fiery and very sharp. She points out that the number of troops under her command is more than the paltry amount that Landar defected with and the orcs aren't coming after the humans (Landar: yet). She agrees with them that the orcs are indeed a threat, but it's not that easy to trust them. Kalenz - Yet you do not seem unwilling to. Lyrlei - Maybe, maybe not. How about a contest? Show me exactly how incredible those famous elven skills are. We'll play a game. It's called 'Seize the Banner'. Landar - That is one of your children's games, is it not? Lyrlei - Yes. All you have to do is take the opposing team's banner and bring it back to your base. It shouldn't take long and we won't fight to kill or anything like that.
+To the point, Landar makes the case for them joining forces and fighting the orcs and saurians. Lyrlei is like her mother, fiery and very sharp. She points out that the number of troops under her command is more than the paltry amount that Landar defected with and the orcs aren't coming after the humans (Landar: yet). She agrees with them that the orcs are indeed a threat, but it's not that easy to trust them.
 
-```
+```txt
+Kalenz - Yet you do not seem unwilling to. 
+Lyrlei - Maybe, maybe not. How about a contest? Show me exactly how incredible those famous elven skills are. We'll play a game. It's called 'Seize the Banner'. Landar - That is one of your children's games, is it not? 
+Lyrlei - Yes. All you have to do is take the opposing team's banner and bring it back to your base. It shouldn't take long and we won't fight to kill or anything like that.
+
 Kalenz - This is a test of our abilities, obviously.
 
 Landar - And obviously it is common practice to understand the capabilities of potential allies. This is a mutually beneficial arrangement. (To Lyrlei) We'll play your game. 
