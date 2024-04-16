@@ -11,7 +11,7 @@ Dealing with the orc invasion of the Great Continent after the fallout of TRoW (
 ## Factions
 
 - Landar - Wesmere born and raised marksman who joined the Wesmere military when the humans arrived on the Great Continent in 0 YW.
-- Kalenz - Lintanir born son of nobleman who came to Wesmere around 5 YW in the wake of the drake attack. 
+- Kalenz - Lintanir born son of nobleman who came to Wesmere around 5 YW in the wake of the drake attack.
 - Cleodil - Lintanir born shaman who came to Wesmere for training. Mostly trained in the druidic arts but has some skill in elven sorcery too.
 - Galtrid - an elvish captain that Landar and Kalenz sometimes encounter who is pretty good friends with Landar
 - Ka'lian - the council from TRoW which has become only more xenophobic since said campaign. Has a very conservative approach to basically everything.
@@ -26,16 +26,16 @@ The orcish clans are rivals with one another. Each one alone might be able to th
 - Clan Bloodrock - another large clan specializing in berserkers. Clan color is dark red.
 - Clan Withervein - a smaller clan specializing in poison. They do not commonly fight against elves or humans, preferring to act as a mediator between the other orc clans. Their poison also can slow enemies. Clan color is yellow-green.
 
-### Saurians 
+### Saurians
 
 The saurian clans are much smaller than the orcish clans and less powerful in military strength. They act more as supporting forces.
 
 - Clan Earth-becomes-clay - a saurian clan focused on swamp magic. Capable of turning regular earth into swamps as well as altering it to hamper non saurians. Allied with clan Blackcrest. Clan color is brown.
 - Clan Iron-forges-hides - a saurian clan of warriors with increased resistance to physical attacks. Has the ironscale trait. Allied with clan Blackcrest. Clan color is also grey.
 
-## Plot: 
+## Plot
 
-Orcs invade the Great Continent after TRoW, escaping from the Green Isles and Old Continent. Most attacks fall on the elves since Haldric tricked them into thinking the elves have the Ruby. However, Wesmere is extremely powerful and can repel most of the disorganized attacks. 
+Orcs invade the Great Continent after TRoW, escaping from the Green Isles and Old Continent. Most attacks fall on the elves since Haldric tricked them into thinking the elves have the Ruby. However, Wesmere is extremely powerful and can repel most of the disorganized attacks.
 
 The main plot of LoW starts when a stronger band of chieftains decide to ally with one another and some powerful established saurian clans to assault Wesmere. They aren't able to conquer Wesmere, but do significant damage to some elven settlements. Landar, an elven radical, wants to bring the fight to the orcs and saurians and petitions the Ka'lian repeatedly to mobilize Wesmere's military to go on the offensive. The Ka'lian is very conservative and denies the request, ordering him and Kalenz to remain as defensive officers only. They are (potentially correctly) assuming that they can hold off the orcs forever. (Around 30 months)
 
@@ -43,11 +43,11 @@ Disgruntled, Landar seeks help from other sources and convinces Kalenz to defect
 
 By this time `(TODO: Landar needs good portrayal or good motive, maybe something from Crelanu or Cleo's magic made him mentally unstable as in the original)`, Landar is completely radicalized and outraged against the Ka'lian. He takes his allies back toward Wesmere, where he tries to fight his way toward the Ka'lian. The elven military turns on him and Kalenz is given an ultimatum to hunt his friend down or be executed along with Cleodil for his actions. He chooses to fight Landar and wins, but also having come to hate the Ka'lian, decides to leave his home in Wesmere. [4-5 scenarios]
 
-### Behind the scenes plot points to track:
+### Behind the scenes plot points to track
 
-The Ka'lian is a bit detached from reality on their high horse, but not stupid. They are not wrong in saying that Wesmere can withstand the orcs and we should see this in the dialogue and fights around Wesmere. There are of course casualties, though. Relatedly, the Landar and Kalenz slowly begin to lose faith in the Ka'lian to the point of being willing to openly fight against them in S12. 
+The Ka'lian is a bit detached from reality on their high horse, but not stupid. They are not wrong in saying that Wesmere can withstand the orcs and we should see this in the dialogue and fights around Wesmere. There are of course casualties, though. Relatedly, the Landar and Kalenz slowly begin to lose faith in the Ka'lian to the point of being willing to openly fight against them in S12.
 
-Landar becomes more radical and even is not against fighting against his previous allies (the humans) or other elves. We have to show Landar as only being very loyal to those he considers his friends (e.g. Kalenz and Lyrlei) while trying to fight those who so much as antagonize him a little bit. This sets him up to rebel against the Ka'lian and also for the events in SoF. Since Lyrlei isn't among those humans, he has no qualms about attacking. 
+Landar becomes more radical and even is not against fighting against his previous allies (the humans) or other elves. We have to show Landar as only being very loyal to those he considers his friends (e.g. Kalenz and Lyrlei) while trying to fight those who so much as antagonize him a little bit. This sets him up to rebel against the Ka'lian and also for the events in SoF. Since Lyrlei isn't among those humans, he has no qualms about attacking.
 
 Meanwhile Cleodil should be consistently a pacifist and does not enjoy fighting. Her dialogue should reflect this.
 
@@ -55,12 +55,11 @@ The orc clans are not united. They would definitely be a bigger threat if they w
 
 Sylphs make an appearance in S9x, detailing how they weave the threads of fate or whatever to manipulate events. This is shown in previous scenarios where the heroes make critical decisions. We'll turn the screen bluish/hazy and they will purposely sound more hesitant, as if they are being pushed toward a decision.
 
-
-## Scenarios: 
+## Scenarios
 
 ### S1 - Oathsworn Kin
 
-Kalenz goes to reinforce Landar at Wesmere's border, where orcs have begun to attack the elves (Clan Moontusk). We learn about how Kalenz was sent from Lintanir earlier during the drake attacks and became fast friends with Landar. There should be a reference to their past, where Landar saved Kalenz's life (maybe from a drake?), hence the Oathsworn. We also get some of their views about the humans and the Ka'lian. This should be a fairly easy and quick scenario, Wesmere is much more powerful than the assaulting orcs. 
+Kalenz goes to reinforce Landar at Wesmere's border, where orcs have begun to attack the elves (Clan Moontusk). We learn about how Kalenz was sent from Lintanir earlier during the drake attacks and became fast friends with Landar. There should be a reference to their past, where Landar saved Kalenz's life (maybe from a drake?), hence the Oathsworn. We also get some of their views about the humans and the Ka'lian. This should be a fairly easy and quick scenario, Wesmere is much more powerful than the assaulting orcs.
 
 - Recruits: Archer, Fighter
 - Loyal Shamans are granted since they accompanied Kalenz here
@@ -81,11 +80,11 @@ Landar and Kalenz pursue the Blackcrest clan to a nearby location outside of Wes
 
 ### S3x - The Intractable
 
-Upon returning, Landar is reprimanded personally by one of the Ka'lian `(TODO: who?)`. He tries to argue his case by saying how many lives he saved. The Ka'lian acknowledges his heroism, but points out that it was a foolish tactic. They argue about military strategy, with the Ka'lian thinking that ill-defended villages at the outskirts should be deserted and military forces retreated to the more heavily wooded areas for easier defense. They think that the elves are "more or less invincible within their own domain" and the orcs, due to in-fighting and finding the elves too difficult to defeat, will go after the humans "in due course". 
+Upon returning, Landar is reprimanded personally by one of the Ka'lian `(TODO: who?)`. He tries to argue his case by saying how many lives he saved. The Ka'lian acknowledges his heroism, but points out that it was a foolish tactic. They argue about military strategy, with the Ka'lian thinking that ill-defended villages at the outskirts should be deserted and military forces retreated to the more heavily wooded areas for easier defense. They think that the elves are "more or less invincible within their own domain" and the orcs, due to in-fighting and finding the elves too difficult to defeat, will go after the humans "in due course".
 
 Landar asks what will happen if the clans band together to fight Wesmere. He suggests they should take the fight to the orcs and wipe them out while they are split and weak. The Ka'lian disagrees and orders him to stay to his post. They also warn Kalenz to be wary of Landar. They say that while he is their guest from Lintanir, they cannot expend "exorbitant resources" to protect him from the foolish decisions of his friend. Before the Ka'lian leaves, they also introduce Cleodil and mention that she will be joining them back to their post. They leave.
 
-Obviously Cleodil is planted as a third party to observe them and report back to the Ka'lian. Druids and enchantresses are usually not sent to battle, as both of them realize. 
+Obviously Cleodil is planted as a third party to observe them and report back to the Ka'lian. Druids and enchantresses are usually not sent to battle, as both of them realize.
 
 ```
 Kalenz - So what will you do?
@@ -136,13 +135,13 @@ Landar - A bold move, but I am a bold warrior. We will take the fight to the sau
 
 ### S5x - Touch of the Faerie
 
-Cleodil has a "dream" where she is exploring a pseudo faerie realm. Mysterious beings talk to her, telling her that this course of action will lead to great tribulation and potentially tremendous personal sacrifice. Cleodil retorts that Landar is not the only one with resolve. The spirits gather around her, ending the cutscene. 
+Cleodil has a "dream" where she is exploring a pseudo faerie realm. Mysterious beings talk to her, telling her that this course of action will lead to great tribulation and potentially tremendous personal sacrifice. Cleodil retorts that Landar is not the only one with resolve. The spirits gather around her, ending the cutscene.
 
 You gain an extra recruit here. `TODO: What recruit?`
 
 ### S6 - Clay Souls
 
-En route to the Swamp of Dread, the new alliance is interrupted outside of Knalga. 
+En route to the Swamp of Dread, the new alliance is interrupted outside of Knalga.
 
 ```
 
@@ -197,7 +196,7 @@ Cleodil finds Kalenz at night. He tries to hide his arms but she pulls up his sl
 
 ### S9 - The Swarm
 
-The alliance retreats to the entrance of Knalga, where you defend against Clan Moontusk already attacking and Clan Blackcrest which arrives after a few turns. You have to fend them both off (either survive to end of turns or kill both). Should be a very hard scenario. Kalenz loses even more HP every turn. At the end of the scenario, either when the orcs retreat or you defeat them, they discuss strategy realize they cannot wipe out the orcs head on and will have to use other tactics to defeat them. 
+The alliance retreats to the entrance of Knalga, where you defend against Clan Moontusk already attacking and Clan Blackcrest which arrives after a few turns. You have to fend them both off (either survive to end of turns or kill both). Should be a very hard scenario. Kalenz loses even more HP every turn. At the end of the scenario, either when the orcs retreat or you defeat them, they discuss strategy realize they cannot wipe out the orcs head on and will have to use other tactics to defeat them.
 
 Lyrlei knows of a mage, Crelanu, who lives in Thoria who might be helpful to them. (Same as canon info) He was banished from Wesnoth when Haldric began to go mad, even though he was only trying to protect Haldric from the Ruby. With the orcs involved and them seeking the Ruby, she thinks he may be willing to help. Kalenz is unresponsive when they ask him for his opinion, however.
 
@@ -209,11 +208,11 @@ Cleodil starts to treat Kalenz but midway through the scene she freezes in place
 
 In the pre scenario text, Landar narrates how he felt guilty at persuading his friend to fight when he was injured. The curse was lifted somehow, though Cleodil denies that it was her doing, but Kalenz would only give vague hints as to who helped him. The physical recovery took more time, however, and so they spend a few weeks recovering while Lyrlei helped defend against orcs. When they felt strong enough, they returned to their quest to find Crelanu.
 
-Similar to the current canon scenario, they pass through the Cliffs of Thoria where they discover Clan Moontusk has allied with trolls. 
+Similar to the current canon scenario, they pass through the Cliffs of Thoria where they discover Clan Moontusk has allied with trolls.
 
 ### S10x - Agents of the Shadows
 
-They talk to Crelanu, who has been observing the orcs for some time. He tells the about the presence of a fifth major Clan (Withervein), which operates in the shadows by navigating the delicate rivalry between the other larger clans. In fact, an orc from said clan comes to visit them to give this information freely. The orc says that Wesmere is more or less unassailable for the orcs and so giving up on that war, it is beneficial for his clan to weaken the others in order to seize more power. Crelanu suggests they do the same, sow the seeds of discord among the orcs by assassinating their leaders and framing the other orcs for the job. 
+They talk to Crelanu, who has been observing the orcs for some time. He tells the about the presence of a fifth major Clan (Withervein), which operates in the shadows by navigating the delicate rivalry between the other larger clans. In fact, an orc from said clan comes to visit them to give this information freely. The orc says that Wesmere is more or less unassailable for the orcs and so giving up on that war, it is beneficial for his clan to weaken the others in order to seize more power. Crelanu suggests they do the same, sow the seeds of discord among the orcs by assassinating their leaders and framing the other orcs for the job.
 
 ### S11 - Entrapment
 
@@ -257,7 +256,7 @@ Kalenz - If they do not execute me first.
 
 Kalenz is seized before even facing the Ka'lian and imprisoned for a few months. They do not grant him any visitors nor do they give him any information. At some point, he is taken back up to their keep to communicate with them.
 
-The Ka'lian says they would have executed Kalenz but the circumstances are special. First, they note that Landar and Kalenz's service was indeed valuable to the elves. They saw the effectiveness of their alliance with the humans, and thus reached out to Jessene and Lyrlei to renew the human-elven alliance, which they took the liberty of doing during Kalenz's prison term. Kalenz - (after we did all the work..!). They invited Lyrlei here to to the council in recognition of the new treaty. As part of said treaty and as an act of goodwill, Kalenz has been pardoned which is why he is being released. Lyrlei says she fought extra hard to save Kalenz or he would have indeed been executed earlier. 
+The Ka'lian says they would have executed Kalenz but the circumstances are special. First, they note that Landar and Kalenz's service was indeed valuable to the elves. They saw the effectiveness of their alliance with the humans, and thus reached out to Jessene and Lyrlei to renew the human-elven alliance, which they took the liberty of doing during Kalenz's prison term. Kalenz - (after we did all the work..!). They invited Lyrlei here to to the council in recognition of the new treaty. As part of said treaty and as an act of goodwill, Kalenz has been pardoned which is why he is being released. Lyrlei says she fought extra hard to save Kalenz or he would have indeed been executed earlier.
 
 ```
 Kalenz - I... thank you. I owe you my life, my lady [TODO: use a proper honorific]. 
@@ -359,20 +358,22 @@ Kalenz - ... Be at peace, venva.
 
 ### S14x - Epilogue
 
-The Ka'lian commends Kalenz and Cleodil for their efforts, but Kalenz cuts them off first saying that their deal is done and he will have nothing more to do with them. They respond that indeed the bargain is fulfilled and he and Cleodil are free to go. 
+The Ka'lian commends Kalenz and Cleodil for their efforts, but Kalenz cuts them off first saying that their deal is done and he will have nothing more to do with them. They respond that indeed the bargain is fulfilled and he and Cleodil are free to go.
 
-## Extras:
+## Extras
 
 - LoW also sets up SoF as Kalenz party warns King Haldric II about the ruby's unshielded power so some part needs to be mentioned to have that.
 - kalenz could have just done that himself ig or cleo, more likely cleo. actually I prefer it if kalenz and cleo do it themselves since it establishes them as human allies for httt
 
 - One line in HttT S5 also needs to be revised.
+
 ```ini
         [message]
             speaker=Delfador
             message= _ "I have been meeting with the Ka’lian, the Great Council of the Elves. This is Kalenz, a great lord of the Northern Elves who came to the Council to offer us the support of his people."
         [/message]
 ```
+
 - Since he came to detest the Kalian..why would he even be there?
 
 - Kalenz will hint at returning to Lintanir at the end of LoW
