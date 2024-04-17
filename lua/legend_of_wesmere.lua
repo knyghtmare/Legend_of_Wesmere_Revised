@@ -27,3 +27,14 @@ function wesnoth.effects.gender(unit, cfg)
 		wml.error("Invalid or Missing key in [effect] apply_to=gender")
 	end
 end
+
+-- [freeze_unit]
+--   id=Delfador
+-- [/freeze_unit]
+
+function wesnoth.wml_actions.freeze_unit(cfg)
+    local unit_id = cfg.id or wml.error "[freeze_unit] expects an id= attribute."
+    local unit = wesnoth.units.get(unit_id)
+    if unit then unit.moves = 0 end
+    wesnoth.units.modify({ id = unit_id }, { moves = 0 })
+end
