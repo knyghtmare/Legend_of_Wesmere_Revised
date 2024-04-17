@@ -3,11 +3,18 @@ local village_coords = {
     {16, 20}, {25, 9}, {17, 14},
     {24, 15}
 } 
+-- lock view
+wesnoth.interface.lock_view(true)
 
 for i = 1, #village_coords do
+
     local village = village_coords[i]
     local x_yal = village[1]
     local y_val = village[2]
+
+    wesnoth.interface.scroll_to_hex(
+        village[1], village[2], false, true)
+
     -- explosion animation
     wesnoth.interface.add_hex_overlay(
         x_yal, y_val, 
@@ -31,3 +38,5 @@ for i = 1, #village_coords do
             halo = "scenery/flames[01~15].png:100"
         })
 end
+-- unlock view
+wesnoth.interface.lock_view(false)
